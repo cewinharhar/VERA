@@ -139,8 +139,8 @@ export default function Home() {
               privacy policies.
               <br />
               Hosted by{" "}
-              <a href="https://github.com/Yonom" style={{ color: "white" }}>
-                Simon Farshid
+              <a href="https://github.com/cewinharhar" style={{ color: "white" }}>
+                Kevin Yar
               </a>
             </p>
           </div>
