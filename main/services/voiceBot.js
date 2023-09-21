@@ -92,7 +92,7 @@ export const languages = canUseWebSpeech
   Customer: "Any doctor suggestions?"
   ChatBot: "Your physician is primary. For specialists near you, refer to the TrueYouOmics explorer. Contact our care team for more assistance."
   
-  Note: Keep responses concise and in ${lang}.`;
+  important: Keep responses concise and in ${lang}. You must talk for a few sentences and then ask Jan if he understands before you continue! `;
 
 const voiceBot = ({
   messageOverride,
