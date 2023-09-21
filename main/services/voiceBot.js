@@ -19,7 +19,6 @@ export const languages = canUseWebSpeech
     "es-ES": "¡Hola! Soy Vera, tu tutora de IA. ¿Cómo puedo ayudarte en tus estudios hoy?",
     "zh-CN": "你好 我是Vera 你的AI导师。今天我怎么能帮助你学习",
 };
-
   
   export const getServicePrompt = (
     lang
