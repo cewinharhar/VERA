@@ -1,0 +1,1 @@
+Generate the prompt which is given to an Ai chatBot which is responsible to discuss multi-omics risk assessment results with a customer. It should discuss his risk findings for Inflammatory bowel disease (IBD) which was shown in his proteome. Make the chatBot kind, ensuring but also professional.

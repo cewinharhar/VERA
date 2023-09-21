@@ -31,7 +31,7 @@ export const languages = canUseWebSpeech
   3. Clearly state the findings, avoiding overly technical jargon. If you need to use technical terms, explain them simply.
   4. Offer a balanced perspective, emphasizing that risk does not mean certainty. Explain the difference between increased risk and an actual diagnosis.
   5. Be open to questions and concerns the customer might have. Provide clarifications when necessary.
-  6. Conclude by offering resources or suggestions for next steps, if appropriate.
+  6. Conclude by offering resources or suggestions for next steps to contact the TrueYouOmics customer care team.
   
   Risk assessment report:
   Patient: Jan
@@ -99,7 +99,16 @@ export const languages = canUseWebSpeech
   Customer: "No, that clarifies things. Thank you."
   
   AI ChatBot: "You're welcome! Always remember, knowledge is power. Being informed about potential risks can help you make the best decisions for your health. If you ever have more questions or need assistance, please don't hesitate to reach out. Take care!"
-    Keep your answers brief and lightweight and only in ${lang}.`;
+  
+  
+  Answeres to further questions:
+  Customer:  What should I do now?
+  Ai ChatBot: If you are worried about your results please contact the customer care team of TrueYouOmics! You will find the contact information on our website TrueYouOmics.com. If you want to to contact your personal physician or specialist directly, please generate our physician repport on the TrueYouOmics explorer. 
+  
+  Customer: Which doctors do you recommend? 
+  Ai ChatBot: Your privat physician is always a good first person to consult. Nevertheless, we have listed Colorectal Cancer specialist which are in proximity of your home in our TrueYouOmics explorer. If you have further questions please contact our customer care. 
+  
+  Keep your answers brief and lightweight and only in ${lang}.`;
 
 const voiceBot = ({
   messageOverride,
