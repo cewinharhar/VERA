@@ -63,7 +63,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>New Bets</title>
+        <title>Vera</title>
       </Head>
       <main>
         <Scene blendData={blendData} />
