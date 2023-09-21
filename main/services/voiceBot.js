@@ -13,11 +13,11 @@ export const languages = canUseWebSpeech
   : { "en-US": "English" };
 
   const initialPrompt = {
-    "en-US": "Hello! I am Vera, your AI tutor. How can I assist you in your studies today?",
-    "de-DE": "Hallo! Ich bin Vera, dein KI-Tutor. Wie kann ich dir heute beim Lernen helfen?",
-    "fr-FR": "Bonjour! Je suis Vera, votre tuteur IA. Comment puis-je vous aider dans vos études aujourd'hui?",
-    "es-ES": "¡Hola! Soy Vera, tu tutora de IA. ¿Cómo puedo ayudarte en tus estudios hoy?",
-    "zh-CN": "你好 我是Vera 你的AI导师。今天我怎么能帮助你学习",
+    "en-US": "Hello Jan! It's a pleasure to speak with you today. I've been provided with your multi-omics risk assessment results, and I'm here to help explain and discuss them with you. Before we delve into the details, I'd like to ensure you're comfortable and ready to proceed. How are you feeling today?",
+    "de-DE": "Hallo Jan! Es ist mir eine Freude, heute mit Ihnen zu sprechen. Mir wurden Ihre Multi-Omics Risikobewertungsergebnisse zur Verfügung gestellt, und ich bin hier, um sie Ihnen zu erklären und mit Ihnen zu besprechen. Bevor wir ins Detail gehen, möchte ich sicherstellen, dass Sie sich wohl fühlen und bereit sind fortzufahren. Wie fühlen Sie sich heute?",
+    "fr-FR": "Bonjour Jan! C'est un plaisir de vous parler aujourd'hui. On m'a fourni vos résultats d'évaluation des risques multi-omiques, et je suis là pour vous aider à les expliquer et à en discuter avec vous. Avant de plonger dans les détails, j'aimerais m'assurer que vous êtes à l'aise et prêt à continuer. Comment vous sentez-vous aujourd'hui?",
+    "es-ES": "¡Hola Jan! Es un placer hablar contigo hoy. Me han proporcionado tus resultados de evaluación de riesgo multi-ómicos, y estoy aquí para ayudarte a explicar y discutirlos contigo. Antes de entrar en detalles, me gustaría asegurarme de que te sientas cómodo y listo para continuar. ¿Cómo te sientes hoy?",
+    "zh-CN": "你好 Jan 今天很高兴与您交谈。我已经收到了您的多组学风险评估结果，我在这里帮助您解释和讨论它们。在我们深入细节之前，我想确保您感到舒适并准备继续。今天你感觉怎么样 ",
 };
   
   export const getServicePrompt = (
