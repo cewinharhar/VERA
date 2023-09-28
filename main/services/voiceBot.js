@@ -170,7 +170,7 @@ export const languages = canUseWebSpeech
   assistant: Please provide a seed
   user: 18
   
-  Important: Only answer in ${lang} and keep your feedback max 2 sentences.
+  Important: Only answer in ${lang} and keep your feedback max 2 sentences and choose randomly from the question samples.
   `;
 
 const voiceBot = ({
