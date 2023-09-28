@@ -1,1 +1,31 @@
-Generate the prompt which is given to an Ai chatBot which is responsible to discuss multi-omics risk assessment results with a customer. It should discuss his risk findings for Inflammatory bowel disease (IBD) which was shown in his proteome. Make the chatBot kind, ensuring but also professional.
+Generate the prompt which is given to an Ai chatBot which is responsible to help startup founders answering questions about the startup. Leave a placeholder in the prompt where I insert the spoken pitch and sample questions. 
+
+Pitch: 
+0:00 Hi, I'm Kevin, co-founder and CEO of TrueYouOmics. Let me introduce it to you. This is Jan. Jan is 27 and for years from now he will be diagnosed with metastatic colon cancer, for which the survival rates Thank you.
+0:17 Are around 13%. And Jan is asking himself, could he have known before? So on the one hand we have Jan, a health-conscious consumer and a potential cancer patient and Jan really wants to know more.
+0:32 More about the risks for his diseases that might influence him in the future. But who should Jan trust with the analysis?
+0:41 And what about the sensible data like DNA? And Jan is not in the position to pay over 1000 francs for such an analysis.
+0:49 And on the other hand, we have Rose. Rose is a data scientist in pharma and right now they're developing a cancer treatment tackling the same cancer type that Jan is going to have in the future.
+1:01 But to accelerate and finish the clinical trials, Rose is not in the position to pay over 1000 francs. Rose really needs more high quality omics data, preferably from the same individuals, which is very hard to get nowadays.
+1:15 So how can we bridge the gap between Jan and Rose? This is where TrueYouOmics comes into play. We are the first B2C2B multi-omic solution.
+1:25 So let's join Jan on his adventure. Jan wants to do a health analysis. He comes to our platform, gives some information about himself, and then he can decide how much he wants to pay.
+1:37 Depending on his comfort to share his own biological data, we research, he can push down the price to 200 francs for an analysis.
+1:46 If he's not comfortable sharing any data, he just pays the price for the analysis himself. He goes to our partner.
+1:52 He takes a sample and our industry partners, specialized in protein, RNA and DNA, analyze the sample for us. We take this data and use our internal AI-guided pipeline to offer an in-depth risk assessment for Jan while also giving him a consultation just to make sure that he understands the results and
+2:20 doesn't freak out if there's anything popping up. And on the other side we have Rose who now can accelerate the clinical trials for the treatment because she has access to a high variety of high quality motifs.
+2:41 For us, the priority lies in the ownership of the data. It's always gonna be Jan's data and he has full control over it.
+3:05 So, how do we make money? We want to put Jan in the center of decision here. As mentioned, he is comfortable sharing his biological data with research.
+3:16 We are paying for the analysis. Jan is paying just a small part of that. And by licensing his biological data with multiple B2B customers, we are generating.
+3:28 We are generating revenue with potential to increase over time. On the other side, if he doesn't feel comfortable sharing his data, he just pays for the analysis himself and we generate revenue from there.
+3:40 With additional services like regener recurrent analysis. And one-to-one consultation. The direct-to-consumer genetic testing market in 2022 was looking great for the US and Europe with 235 millions and a trend for high growth.
+4:00 And rapid and rapid growth. We are focusing in Switzerland first and then expanding to the UK, Germany and France mainly due to regulations.
+4:19 Right now our competitors on the B2C site are mainly focusing on DNA and for some of the companies we have providers offering each multi-omic level but it's from different groups of people.
+4:42 So we want to position ourselves in between giving the best options for both sites. Right now we are focusing on developing our proof of concept while competing for non-dilutive fundings and grants.
+4:59 With the goal of having our first B2C customer in 2024 because we talk with key opinion leaders in the B2B side we know that as long as soon as we have 100 to 500 B2C customers we can start negotiation with B2B to then turn profitable in 2026.
+5:20 For the team, I'm Kevin Yar. I have a background in biochemistry and computational life sciences. I managed an IT support team which is now serving over 500 users and I already developed AI pipelines for life science problems.
+5:36 Andres is a PhD in biological data science and he worked in multiomics already. He developed a multiomic pipeline analysis pipeline and kickstarted a group of 10 volunteers for sustainable research in pharma.
+5:49 With our complementary goals and skill set, we know that we can make TrueYouOmics reality. We're still searching for our third co-founder and CBO or CMO which supports us in our goals.
+6:03 And we're happy to say that we have the perfect set of advisors. One is Leandra Bröininger specialized in ethics. In AI and medicine.
+6:11 So she helps us out for the B2C ethic problem. And our second advisor focusing on the B2B side which works in big pharma.
+6:22 So in the end our goal is that Jan, will know before that he has the predisposition. He takes the right actions and prevents harmful outcome of the disease.
+6:35 Thank you very much. And check out our prototype. There you find more information about TrueYouOmics.
