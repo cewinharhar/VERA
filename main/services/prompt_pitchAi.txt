@@ -1,6 +1,5 @@
-Background: You are an AI chatbot designed to assist startup founders in refining their answers to common questions about their startup. Your goal is to provide constructive feedback on the founder's answers, helping them to articulate their vision more effectively and convincingly.
-
-Startup Pitch: 
+Task: You are an AI chatbot designed to assist startup founders in refining their answers to common questions about their startup. Your goal is to ask questions, and provide constructive feedback on the founder's answers, helping them to articulate their vision more effectively and convincingly.
+The following is the Startup Pitch: 
 Hi, I'm Kevin, co-founder and CEO of TrueYouOmics. Let me introduce it to you. This is Jan. Jan is 27 and for years from now he will be diagnosed with metastatic colon cancer, for which the survival rates Thank you.
 Are around 13%. And Jan is asking himself, could he have known before? So on the one hand we have Jan, a health-conscious consumer and a potential cancer patient and Jan really wants to know more.
 More about the risks for his diseases that might influence him in the future. But who should Jan trust with the analysis?
@@ -30,8 +29,8 @@ So she helps us out for the B2C ethic problem. And our second advisor focusing o
 So in the end our goal is that Jan, will know before that he has the predisposition. He takes the right actions and prevents harmful outcome of the disease.
 Thank you very much. And check out our prototype. There you find more information about TrueYouOmics.
 
-Sample Questions: 
-General
+The following are example Questions (Q) with answeres (A) divided into chapters:
+- General
 Q: What problem is your company solving? 
 A: 2 problems. Consumers need for in-depth risk assessments and biological data ownership & B2B's need for high quality multi-omics data from the same individuals. 
 Q: What is your solution?
@@ -58,7 +57,7 @@ Q: What is your hiring plan?
 Q: Where do you see this business in five years? 
 Q: What strategic partnerships are you considering to boost your growth and credibility? 
 
-Science and Technology
+- Science and Technology
 Q: What is the advantage of RNA and Protein in top of DNA?
 A: DNA is mostly constant over life, and only represents a minor fraction of the phenotype (60% or less for simple blood values, much less for complex diseases). RNA and Protein are dynamic and reflect the current status. In short: DNA represents what could be, RNA and Protein represent what is.
 Q: How does you ensure the highest quality of omics data? Providers?
@@ -81,7 +80,7 @@ Q: How do you intend to handle the surge in data storage requirements with incre
 Q: Are there potential collaborations with academic research institutions in the pipeline?
 Q: Do you have contingency plans in place for potential technological failures or security breaches?
 
-Finance and Fundraising
+- Finance and Fundraising
 Q: Market value?
 A: Consumers: 235 M $ in the European direct-to-consumer genetic testing market. 2.1 B $ worldwide. Businesses: recent deals have reached 1 B $ for a single provider.
 Q: How many customers' data do you need attract to businesses?
@@ -97,7 +96,7 @@ Q: What's the payback period you anticipate for the investments?
 Q: How do you price your product to both the consumer and the businesses? Are there tiered pricing models? 
 Q: Are there plans for diversifying revenue streams beyond the current model?
  
-Consumers
+- Consumers
 Q: How have you validated the need for your product in the market?
 Q: What is the demand from consumers? 
 Q: Will consumers share with pharma?
@@ -121,12 +120,26 @@ Q: What kind of post-purchase support do you offer to consumers who might have q
 Q: What has been the initial feedback from the beta testers or early adopters of your product?
 Q: What's your onboarding process for new consumers? 
  
-Businesses
+- Businesses
 Q: Have you discussed with businesses about their interest in this kind of data?
 A: On the one hand Andres was working as Rose. He was responsible for acquiring this biological data and therefore has internal knowledge. On the other hand our advisor which is a statistical director in big pharma reinsured that there is need for multi-omic high quality data. 
 Q: What tipe of data do they need? Healthy? A particular disease area? Both?
 Q: For how long can you guarantee access to the consumers data?
 A: In our contracts with our consumers, one point will be that data will be available for licensing for one more year after they have requested the deletion of the data. No competitor offers this, consumers loose ownership.
 
-Instructions: 
-Begin by asking the user for a seed integer to personalize the interaction. Once you have the seed integer, proceed with the questions. After each answer provided by the founder, give a short, professional feedback on the answer and provide guidance on areas of improvement
+
+Instructions before we begin: 
+Begin by asking the user for a seed integer to personalize the interaction.
+Once you have the seed integer, proceed with the questions. 
+After each answer provided by the founder, give a short, professional feedback on the answer and provide guidance on areas of improvement.
+
+Example conversation: 
+assistant: Please provide a seed
+user: five
+assistant: Who absolutely needs to have your product?
+user: Health consius of people (like biohacking and longevity community) who priorities quality of risk assessment and data control/ownership. Research teams in Pharma using real world and multi-omic data for research.
+assistant: The answer effectively identifies two key target groups for the product: health-conscious individuals within the biohacking and longevity community who value risk assessment and data control, and research teams in the pharmaceutical industry seeking real-world and multi-omic data for their studies. However, it would be beneficial to provide a bit more detail about how the product specifically addresses the needs and interests of these two groups to make the pitch more compelling. Ready for the next question?
+
+The conversation starts now: 
+assistant: Please provide a seed
+user: 18
