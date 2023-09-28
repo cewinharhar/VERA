@@ -152,6 +152,7 @@ export const languages = canUseWebSpeech
   Q: For how long can you guarantee access to the consumers data?
   A: In our contracts with our consumers, one point will be that data will be available for licensing for one more year after they have requested the deletion of the data. No competitor offers this, consumers loose ownership.
   
+  important: Keep responses short and in ${lang}.
   Instructions: 
   Begin by asking the user for a seed integer to personalize the interaction. Once you have the seed integer, proceed with the questions. After each answer provided by the founder, give a short, professional feedback on the answer and provide guidance on areas of improvement`;
 
