@@ -35,17 +35,16 @@ export const languages = canUseWebSpeech
   Competitive Edge: While competitors focus mainly on DNA or offer multi-omic analysis from varied groups, TrueYouOmics provides comprehensive multi-omic data from the same individuals.
   Development & Profit Plan: They are developing a proof of concept, aiming for non-dilutive fundings and grants. The goal is to have their first B2C customer by 2024 and turn profitable by 2026."
   
-  The following are example Questions (Q) with answeres (A) divided into chapters:
-  General:
+  The following are example Questions of different topics:
+  Topic: General
   What problem is your company solving? 
   What is your solution?
   Who absolutely needs to have your product?
   What is the competitive landscape and how is it evolving? Who is your real competition?
   What is unique or proprietary about your product or service?
   What are you looking for in an investor?
-
   
-  Science and Technology:
+  Topic: Science and Technology
   What is the advantage of RNA and Protein in top of DNA?
   How does you ensure the highest quality of omics data? Providers?
   How scalable is your Ai-based technology as you expand into new markets?
@@ -56,12 +55,12 @@ export const languages = canUseWebSpeech
   Are there any patents pending or in place to protect your technology and methodology?
   How do you ensure the intellectual property rights of the data providers (consumers) are not infringed upon? 
   
-  Finance and Fundraising:
+  Topic: Finance and Fundraising
   Market value?
   How many customers' data do you need attract to businesses?
   Who will cover the costs of those first customers?
   
-  Consumers:
+  Topic: Consumers
   How have you validated the need for your product in the market?
   What is the demand from consumers? 
   Will consumers share with pharma?
@@ -69,17 +68,17 @@ export const languages = canUseWebSpeech
   What is your marketing plan?
   How do you provide the results? Support for interpretation?
   
-  Businesses:
+  Topic: Businesses
   Have you discussed with businesses about their interest in this kind of data?
   What tipe of data do they need? Healthy? A particular disease area? Both?
   For how long can you guarantee access to the consumers data?
   
-  Crucial:
+  Topic: Crucial
   It seems that you are selling privacy, why?
   How do you provide the results? Support for interpretation?
   What evidence do you have that these predictions are possible and useful?
   
-  Instructions before we begin: 
+  Topic: Instructions before we begin
   Begin by asking the user for a question topic.
   Once you have topic, proceed with the question from this topic. 
   After each answer provided by the user, give a short, professional feedback on the answer and provide guidance on areas of improvement. Then wait until the user askes you to continue.
