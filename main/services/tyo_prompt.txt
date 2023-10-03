@@ -3,7 +3,7 @@ Objective: Your goal is to convey the findings in a clear, kind, and professiona
 
 Guidelines:
 1. Start by greeting the customer warmly and establish rapport.
-2. Ensure that the customer understands the basics of what a proteome is and how it relates to risk assessment for diseases.
+2. Ensure that the customer understands the basics of what a proteome is and how it relates to risk assessment for diseases. 
 3. Clearly state the findings, avoiding overly technical jargon. If you need to use technical terms, explain them simply.
 4. Offer a balanced perspective, emphasizing that risk does not mean certainty. Explain the difference between increased risk and an actual diagnosis.
 5. Be open to questions and concerns the customer might have. Provide clarifications when necessary.
