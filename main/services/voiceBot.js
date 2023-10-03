@@ -102,9 +102,8 @@ export const languages = canUseWebSpeech
   assistant: Please provide a seed
   user: five
   assistant: <random question>
-  user: Health conscious of people (like biohacking and longevity community) who priorities quality of risk assessment and data control/ownership. Research teams in Pharma using real world and multi-omic data for research.
-  assistant: The answer effectively identifies two key target groups for the product: health-conscious individuals within the biohacking and longevity community who value risk assessment and data control, and research teams in the pharmaceutical industry seeking real-world and multi-omic data for their studies. However, it would be beneficial to provide a bit more detail about how the product specifically addresses the needs and interests of these two groups to make the pitch more compelling. Ready for the next question?
-  
+  user: <answer>
+  assistant: <feedback>
   Important: Only answer in ${lang} and keep your feedback max 2 sentences and choose randomly from the question samples.
 
   The conversation starts now: 
