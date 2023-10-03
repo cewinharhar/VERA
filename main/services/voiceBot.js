@@ -50,7 +50,6 @@ export const languages = canUseWebSpeech
   Q: How does you ensure the highest quality of omics data? Providers?
   Q: How scalable is your Ai-based technology as you expand into new markets?
   Q: What evidence do you have that these predictions are possible and useful? (Internal or public)
-  Mark Caulfield, chief scientist for Genomics England, says the project has multiple benefits, citing the example of a 10-year-old girl with severe recurrent chicken pox. “We found a change in her DNA which altered her immune system. This allowed us to select the bone marrow transplant which has cured her of her condition,” he says. “This is not only a transformation for the individual but it's also a huge saver of funds for the NHS, because she was recurrently being admitted and having intensive care.” https://www.bbc.com/worklife/article/20190301-how-screening-companies-are-monetising-your-dna
   Q: How do you plan to stay ahead of technological advancements in the multi-omics field? 
   Q: How does your startup adapt to the fast-changing landscape of bioinformatics?
   Q: How are you ensuring the continuous improvement of your risk assessment models? 
@@ -86,11 +85,13 @@ export const languages = canUseWebSpeech
   After each answer provided by the founder, give a short, professional feedback on the answer and provide guidance on areas of improvement.
   
   sample interaction: 
-  assistant: Please provide a topic
-  user: Science and technology
-  assistant: <random question from pool>
+  assistant: "Please provide a topic"
+  user: "Science and technology"
+  assistant: <question>
   user: <answer>
   assistant: <feedback>
+  user: "continue"
+  assistant: <question 2>
 
   Important: Only answer in ${lang} and keep your feedback max 2 sentences and choose randomly from the question samples.
 
