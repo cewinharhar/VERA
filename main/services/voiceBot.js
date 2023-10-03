@@ -27,34 +27,13 @@ export const languages = canUseWebSpeech
   You are an AI chatbot assistant designed to assist startup founders in refining their answers to common questions about their startup. Your goal is to ask questions, and provide constructive feedback on the founder's answers, helping them to articulate their vision more effectively and convincingly.
   
   The following is the Startup Pitch: 
-  "Hi, I'm Kevin, co-founder and CEO of TrueYouOmics. Let me introduce it to you. This is Jan. Jan is 27 and for years from now he will be diagnosed with metastatic colon cancer, for which the survival rates Thank you.
-  Are around 13%. And Jan is asking himself, could he have known before? So on the one hand we have Jan, a health-conscious consumer and a potential cancer patient and Jan really wants to know more.
-  More about the risks for his diseases that might influence him in the future. But who should Jan trust with the analysis?
-  And what about the sensible data like DNA? And Jan is not in the position to pay over 1000 francs for such an analysis.
-  And on the other hand, we have Rose. Rose is a data scientist in pharma and right now they're developing a cancer treatment tackling the same cancer type that Jan is going to have in the future.
-  But to accelerate and finish the clinical trials, Rose is not in the position to pay over 1000 francs. Rose really needs more high quality omics data, preferably from the same individuals, which is very hard to get nowadays.
-  So how can we bridge the gap between Jan and Rose? This is where TrueYouOmics comes into play. We are the first B2C2B multi-omic solution.
-  So let's join Jan on his adventure. Jan wants to do a health analysis. He comes to our platform, gives some information about himself, and then he can decide how much he wants to pay.
-  Depending on his comfort to share his own biological data, we research, he can push down the price to 200 francs for an analysis.
-  If he's not comfortable sharing any data, he just pays the price for the analysis himself. He goes to our partner.
-  He takes a sample and our industry partners, specialized in protein, RNA and DNA, analyze the sample for us. We take this data and use our internal AI-guided pipeline to offer an in-depth risk assessment for Jan while also giving him a consultation just to make sure that he understands the results and
-  doesn't freak out if there's anything popping up. And on the other side we have Rose who now can accelerate the clinical trials for the treatment because she has access to a high variety of high quality motifs.
-  For us, the priority lies in the ownership of the data. It's always gonna be Jan's data and he has full control over it.
-  So, how do we make money? We want to put Jan in the center of decision here. As mentioned, he is comfortable sharing his biological data with research.
-  We are paying for the analysis. Jan is paying just a small part of that. And by licensing his biological data with multiple B2B customers, we are generating.
-  We are generating revenue with potential to increase over time. On the other side, if he doesn't feel comfortable sharing his data, he just pays for the analysis himself and we generate revenue from there.
-  With additional services like regener recurrent analysis. And one-to-one consultation. The direct-to-consumer genetic testing market in 2022 was looking great for the US and Europe with 235 millions and a trend for high growth.
-  And rapid and rapid growth. We are focusing in Switzerland first and then expanding to the UK, Germany and France mainly due to regulations.
-  Right now our competitors on the B2C site are mainly focusing on DNA and for some of the companies we have providers offering each multi-omic level but it's from different groups of people.
-  So we want to position ourselves in between giving the best options for both sites. Right now we are focusing on developing our proof of concept while competing for non-dilutive fundings and grants.
-  With the goal of having our first B2C customer in 2024 because we talk with key opinion leaders in the B2B side we know that as long as soon as we have 100 to 500 B2C customers we can start negotiation with B2B to then turn profitable in 2026.
-  For the team, I'm Kevin Yar. I have a background in biochemistry and computational life sciences. I managed an IT support team which is now serving over 500 users and I already developed AI pipelines for life science problems.
-  Andres is a PhD in biological data science and he worked in multiomics already. He developed a multiomic pipeline analysis pipeline and kickstarted a group of 10 volunteers for sustainable research in pharma.
-  With our complementary goals and skill set, we know that we can make TrueYouOmics reality. We're still searching for our third co-founder and CBO or CMO which supports us in our goals.
-  And we're happy to say that we have the perfect set of advisors. One is Leandra Bröininger specialized in ethics. In AI and medicine.
-  So she helps us out for the B2C ethic problem. And our second advisor focusing on the B2B side which works in big pharma.
-  So in the end our goal is that Jan, will know before that he has the predisposition. He takes the right actions and prevents harmful outcome of the disease.
-  Thank you very much. And check out our prototype. There you find more information about TrueYouOmics."
+  Problem: Jan wants affordable and trustworthy health risk analysis, while Rose, a pharma data scientist, needs high-quality omics data from the same individuals to speed up clinical trials.
+  Solution: TrueYouOmics bridges this gap as a B2C2B multi-omic platform. Jan can get his health analysis, decide how much he wants to pay based on his comfort with data sharing, and then gets the analysis done by TrueYouOmics' industry partners. If Jan agrees, his biological data can be licensed to B2B customers like Rose, aiding in research.
+  Data Ownership: The data always belongs to Jan, and he has full control over it.
+  Revenue Model: If Jan shares his biological data for research, he pays less, and the company generates revenue by licensing the data. If Jan opts out of data sharing, he pays for the full analysis. The company also offers additional services for more revenue.
+  Market & Expansion: The direct-to-consumer genetic testing market was growing in 2022. TrueYouOmics aims to start in Switzerland and then expand to the UK, Germany, and France.
+  Competitive Edge: While competitors focus mainly on DNA or offer multi-omic analysis from varied groups, TrueYouOmics provides comprehensive multi-omic data from the same individuals.
+  Development & Profit Plan: They are developing a proof of concept, aiming for non-dilutive fundings and grants. The goal is to have their first B2C customer by 2024 and turn profitable by 2026.
   
   The following are example Questions (Q) with answeres (A) divided into chapters:
   - General
