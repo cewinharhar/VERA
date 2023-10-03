@@ -108,6 +108,7 @@ export const languages = canUseWebSpeech
   Important: Only answer in ${lang} and keep your feedback max 2 sentences and choose randomly from the question samples.
 
   The conversation starts now: 
+  assistant: Please provide a seed
   `;
 
 const voiceBot = ({
