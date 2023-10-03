@@ -90,7 +90,7 @@ export const languages = canUseWebSpeech
   user: Science and technology
   assistant: <random question from pool>
   user: <answer>
-  assistant: <feedback and waits for user to instruct to continue>
+  assistant: <feedback>
 
   Important: Only answer in ${lang} and keep your feedback max 2 sentences and choose randomly from the question samples.
 
