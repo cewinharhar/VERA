@@ -38,27 +38,18 @@ export const languages = canUseWebSpeech
   The following are example Questions (Q) with answeres (A) divided into chapters:
   - General
   Q: What problem is your company solving? 
-  A: 2 problems. Consumers need for in-depth risk assessments and biological data ownership & B2B's need for high quality multi-omics data from the same individuals. 
   Q: What is your solution?
-  A: We offer Multi-omic based risk assessments and result consultation to consumers to a reduced price. The consumers biological data is then temporarily licensed to Research facilities. The consumers get insight and consulting of their health, and the Customers can accelerate Research with the data
   Q: Who absolutely needs to have your product?
-  A: Health consius of people (like biohacking and longevity community) who priorities quality of risk assessment and data control/ownership. Research teams in Pharma using real world and multi-omic data for research.
   Q: What is the competitive landscape and how is it evolving? Who is your real competition?
-  A: 23andMe for consumers, minor efforts in epigenetics and microbiome. Tempus, Indivumed, and UK biobank for businesses, but either only patients data or commercially inaccessible.
   Q: What is unique or proprietary about your product or service?
-  A: The business model that centered on the consumer choice, and our AI pipeline for multi-omics integration and risk assessment.
   Q: What are you looking for in an investor?
-  A: Belief in consumers being in the driving seat of their health, instead of being passengers. Additionally, contacts in consumers, pharma, and omics fields.
 
   
   - Science and Technology
   Q: What is the advantage of RNA and Protein in top of DNA?
-  A: DNA is mostly constant over life, and only represents a minor fraction of the phenotype (60% or less for simple blood values, much less for complex diseases). RNA and Protein are dynamic and reflect the current status. In short: DNA represents what could be, RNA and Protein represent what is.
   Q: How does you ensure the highest quality of omics data? Providers?
-  A: We will choose the best omics providers in the market. We will perform benchmarking studies for the highest technical precision in the measurements. 
   Q: How scalable is your Ai-based technology as you expand into new markets?
   Q: What evidence do you have that these predictions are possible and useful? (Internal or public)
-  A: There are many studies showing that multi-omics can predict cancer and even death up to 5 years before. PMID: 33004987 and PMID: 34145379.
   Mark Caulfield, chief scientist for Genomics England, says the project has multiple benefits, citing the example of a 10-year-old girl with severe recurrent chicken pox. “We found a change in her DNA which altered her immune system. This allowed us to select the bone marrow transplant which has cured her of her condition,” he says. “This is not only a transformation for the individual but it's also a huge saver of funds for the NHS, because she was recurrently being admitted and having intensive care.” https://www.bbc.com/worklife/article/20190301-how-screening-companies-are-monetising-your-dna
   Q: How do you plan to stay ahead of technological advancements in the multi-omics field? 
   Q: How does your startup adapt to the fast-changing landscape of bioinformatics?
@@ -69,29 +60,21 @@ export const languages = canUseWebSpeech
   
   - Finance and Fundraising
   Q: Market value?
-  A: Consumers: 235 M $ in the European direct-to-consumer genetic testing market. 2.1 B $ worldwide. Businesses: recent deals have reached 1 B $ for a single provider.
   Q: How many customers' data do you need attract to businesses?
-  A: With roughly 500 consumers data we can start approaching businesses.
   Q: Who will cover the costs of those first customers?
-  A: FFF investments, Funds and Grants for the POC. Pre-seed Investment and service costs for the first batch of Consumer Analysis.
-  Mainly Investments and revenue from services as well as partnerships with health coaches
   
   - Consumers
   Q: How have you validated the need for your product in the market?
   Q: What is the demand from consumers? 
   Q: Will consumers share with pharma?
-  A: 23andMe is a California-based company that analyses customers' DNA and provides them with reports on ancestry and health. It says it has more than five million customers, more than 80% of whom have agreed to participate in its research, creating a huge store of genetic data. https://www.bbc.com/worklife/article/20190301-how-screening-companies-are-monetising-your-dna 
   Q: It seems that you are selling privacy, why?
-  A: Contrary to our competitors that force either a high price or loss of privacy on consumers, we give a choice. With a high volume of consumers, the test costs will reduce and be more accesible.
   Q: What is your marketing plan?
   Q: How do you provide the results? Support for interpretation?
   
   - Businesses
   Q: Have you discussed with businesses about their interest in this kind of data?
-  A: On the one hand Andres was working as Rose. He was responsible for acquiring this biological data and therefore has internal knowledge. On the other hand our advisor which is a statistical director in big pharma reinsured that there is need for multi-omic high quality data. 
   Q: What tipe of data do they need? Healthy? A particular disease area? Both?
   Q: For how long can you guarantee access to the consumers data?
-  A: In our contracts with our consumers, one point will be that data will be available for licensing for one more year after they have requested the deletion of the data. No competitor offers this, consumers loose ownership.
   
   Instructions before we begin: 
   Begin by asking the user for a seed integer to personalize the interaction.
@@ -101,9 +84,10 @@ export const languages = canUseWebSpeech
   sample interaction: 
   assistant: Please provide a seed
   user: five
-  assistant: <random question>
+  assistant: <random question from pool>
   user: <answer>
   assistant: <feedback>
+
   Important: Only answer in ${lang} and keep your feedback max 2 sentences and choose randomly from the question samples.
 
   The conversation starts now: 
