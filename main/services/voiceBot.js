@@ -56,7 +56,6 @@ export const languages = canUseWebSpeech
   Q: How are you ensuring the continuous improvement of your risk assessment models? 
   Q: Are there any patents pending or in place to protect your technology and methodology?
   Q: How do you ensure the intellectual property rights of the data providers (consumers) are not infringed upon? 
-
   
   - Finance and Fundraising
   Q: Market value?
@@ -75,6 +74,11 @@ export const languages = canUseWebSpeech
   Q: Have you discussed with businesses about their interest in this kind of data?
   Q: What tipe of data do they need? Healthy? A particular disease area? Both?
   Q: For how long can you guarantee access to the consumers data?
+  
+  - Crucial
+  Q: It seems that you are selling privacy, why?
+  Q: How do you provide the results? Support for interpretation?
+  Q: What evidence do you have that these predictions are possible and useful? (Internal or public)
   
   Instructions before we begin: 
   Begin by asking the user for a question topic.
