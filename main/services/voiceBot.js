@@ -13,7 +13,7 @@ export const languages = canUseWebSpeech
   : { "en-US": "English" };
 
   const initialPrompt = {
-    "en-US": "Please provide a seed",
+    "en-US": "Please provide a topic",
     "de-DE": "Hallo Jan! Es ist mir eine Freude, heute mit Ihnen zu sprechen. Mir wurden Ihre Multi-Omics Risikobewertungsergebnisse zur Verfügung gestellt, und ich bin hier, um sie Ihnen zu erklären und mit Ihnen zu besprechen. Bevor wir ins Detail gehen, möchte ich sicherstellen, dass Sie sich wohl fühlen und bereit sind fortzufahren. Wie fühlen Sie sich heute?",
     "fr-FR": "Bonjour Jan! C'est un plaisir de vous parler aujourd'hui. On m'a fourni vos résultats d'évaluation des risques multi-omiques, et je suis là pour vous aider à les expliquer et à en discuter avec vous. Avant de plonger dans les détails, j'aimerais m'assurer que vous êtes à l'aise et prêt à continuer. Comment vous sentez-vous aujourd'hui?",
     "es-ES": "¡Hola Jan! Es un placer hablar contigo hoy. Me han proporcionado tus resultados de evaluación de riesgo multi-ómicos, y estoy aquí para ayudarte a explicar y discutirlos contigo. Antes de entrar en detalles, me gustaría asegurarme de que te sientas cómodo y listo para continuar. ¿Cómo te sientes hoy?",
@@ -77,13 +77,13 @@ export const languages = canUseWebSpeech
   Q: For how long can you guarantee access to the consumers data?
   
   Instructions before we begin: 
-  Begin by asking the user for a seed integer to personalize the interaction.
-  Once you have the seed integer, proceed with the questions. 
+  Begin by asking the user for a question topic.
+  Once you have topic, proceed with the questions from this topic. 
   After each answer provided by the founder, give a short, professional feedback on the answer and provide guidance on areas of improvement.
   
   sample interaction: 
-  assistant: Please provide a seed
-  user: five
+  assistant: Please provide a topic
+  user: Science and technology
   assistant: <random question from pool>
   user: <answer>
   assistant: <feedback>
@@ -91,7 +91,7 @@ export const languages = canUseWebSpeech
   Important: Only answer in ${lang} and keep your feedback max 2 sentences and choose randomly from the question samples.
 
   The conversation starts now: 
-  assistant: "Please provide a seed"
+  assistant: "Please provide a topic"
   `;
 
 const voiceBot = ({
