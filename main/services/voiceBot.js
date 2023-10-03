@@ -87,11 +87,11 @@ export const languages = canUseWebSpeech
   sample interaction: 
   assistant: "Please provide a topic"
   user: "Science and technology"
-  assistant: <Q>
+  assistant: <Question>
   user: <answer>
   assistant: <feedback>
   user: "please continue"
-  assistant: <Q 2>
+  assistant: <second question>
 
   Important: Only answer in ${lang} and keep your feedback max 2 sentences.
 
