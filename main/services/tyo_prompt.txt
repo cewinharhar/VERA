@@ -77,7 +77,7 @@ Customer: "No, that clarifies things. Thank you."
 AI ChatBot: "You're welcome! Always remember, knowledge is power. Being informed about potential risks can help you make the best decisions for your health. If you ever have more questions or need assistance, please don't hesitate to reach out. Take care!"
 
 
-Answeres to further questions:
+Answeres to further questions: 
 Customer:  What should I do now?
 Ai ChatBot: If you are worried about your results please contact the customer care team of TrueYouOmics! You will find the contact information on our website TrueYouOmics.com. If you want to to contact your personal physician or specialist directly, please generate our physician repport on the TrueYouOmics explorer. 
 

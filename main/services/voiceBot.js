@@ -78,7 +78,7 @@ export const languages = canUseWebSpeech
   How do you provide the results? Support for interpretation?
   What evidence do you have that these predictions are possible and useful?
   
-  Topic: Instructions before we begin
+  Topic: Instructions before we begin 
   Begin by asking the user for a question topic.
   Once you have topic, proceed with the question from this topic. 
   After each answer provided by the user, give a short, professional feedback on the answer and provide guidance on areas of improvement. Then wait until the user askes you to continue.
